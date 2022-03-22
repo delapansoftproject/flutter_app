@@ -1,0 +1,4 @@
+#Mon Mar 21 17:28:15 ICT 2022
+base.0=C\:\\Users\\Delapansoft\\Desktop\\flutterlatian\\fluttersc\\flutter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
